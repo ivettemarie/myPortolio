@@ -4,3 +4,6 @@ hr.dotted {
   border-top: 3px dotted #bbb;
 }
 
+.footer, h3 {
+color: #fff
+}

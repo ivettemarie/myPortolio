@@ -120,7 +120,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #fcfcfc;
+		color: #050505;
 	}
 
 	i, em {
@@ -167,6 +167,7 @@ input, select, textarea {
 
 		h1 strong {
 			font-weight: 700;
+			color: #020202;
 		}
 
 	h2 {
@@ -177,6 +178,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.5em;
 		letter-spacing: -0.015em;
+		color: #ffffff;
 	}
 
 	em, i {
